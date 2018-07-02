@@ -1,0 +1,10 @@
+file name            load_into
+
+LX_AGGR_DATA  ------ [NEWDOL].[LX_AGGR_DATA]
+PROMO_AGGR_DATA000------[NEWDOL].[HHPROMO_AGGR_DATA]
+PROMO_DESC -------------[NEWDOL].[PROMOTION_UNIV_DESC_OVERALL]
+
+
+
+AmazonS3:// eycloadredshiftuseast / ABS / Anticipate / Azure
+
